@@ -1,0 +1,10 @@
+common_voice_en_41928171.mp3,7.0609
+common_voice_en_41928476.mp3,6.4678
+common_voice_en_41940779.mp3,7.1018
+common_voice_en_41944826.mp3,6.7631
+common_voice_en_42037987.mp3,6.3238
+common_voice_en_42046273.mp3,6.7563
+common_voice_en_42145861.mp3,6.5676
+common_voice_en_42387523.mp3,6.9597
+common_voice_en_42466107.mp3,6.6688
+common_voice_en_42479117.mp3,6.4249
