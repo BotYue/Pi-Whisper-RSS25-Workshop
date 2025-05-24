@@ -1,8 +1,7 @@
-# Pi-Whisper-RSS25-Workshop
+## **Performance Evaluation of Whisper-Series Speech Transcription Models on Raspberry Pi**
 
-This repository contains evaluation data and transcription outputs supporting the work:
-
-### **Performance Evaluation of Whisper-Series Speech Transcription Models on Raspberry Pi**
+-----
+This repository contains evaluation data and supporting files the work submitted to Resource Constrained Robotics Workshop at RSS 2025:
 
 This work evaluated:
 
@@ -12,12 +11,15 @@ This work evaluated:
 across four different Raspberry Pis:
 
 * Raspberry Pi 4 (4GB)
-* Raspberry Pi 5 (4GB, 8GB, 16GB)
-
+* Raspberry Pi 5 (4GB)
+* Raspberry Pi 5 (8GB)
+* Raspberry Pi 5 (16GB)
+  
 ---
+
 ## 📊 Evaluation Tasks
 
-We evaluate models across two test tests:
+It evaluated models across two test sets:
 
 | Test Sets          | Description                                             |
 | ---------------- | ------------------------------------------------------- |
